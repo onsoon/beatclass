@@ -27,3 +27,8 @@ Settings → Pages → Build and deployment에서 Source를 **Deploy from a bran
 
 - 제작·문의: onsoon43@gmail.com
 - 사이트 아래쪽(푸터)에 개인정보 처리방침, 이용 방침, 저작권·출처를 실었습니다. 이 사이트는 개인정보를 수집하지 않으며, 실습 기록은 각자 기기의 브라우저에만 저장됩니다.
+
+## 실습 사이트 2 (50분 핵심판)
+
+`site2/index.html` · https://onsoon.github.io/beatclass/site2/
+약속 4가지 그림 만들기와 나만의 AI Agent 만들기 중심으로 줄인 판입니다. 구성과 디자인은 실습 사이트 1과 같습니다.
