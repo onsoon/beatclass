@@ -22,3 +22,8 @@
 
 Settings → Pages → Build and deployment에서 Source를 **Deploy from a branch**, Branch를 **main / (root)** 로 고르고 저장하면
 `https://onsoon.github.io/beatclass/` 주소로 열립니다.
+
+## 문의 · 방침
+
+- 제작·문의: onsoon43@gmail.com
+- 사이트 아래쪽(푸터)에 개인정보 처리방침, 이용 방침, 저작권·출처를 실었습니다. 이 사이트는 개인정보를 수집하지 않으며, 실습 기록은 각자 기기의 브라우저에만 저장됩니다.
