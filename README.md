@@ -32,3 +32,8 @@ Settings → Pages → Build and deployment에서 Source를 **Deploy from a bran
 
 `site2/index.html` · https://onsoon.github.io/beatclass/site2/
 약속 4가지 그림 만들기와 나만의 AI Agent 만들기 중심으로 줄인 판입니다. 구성과 디자인은 실습 사이트 1과 같습니다.
+
+## 실습 사이트 3 (BeAT 활용 교육 최종)
+
+`site3/index.html` · https://onsoon.github.io/beatclass/site3/
+최종 슬라이드 흐름(회원가입 → 윤리 퀴즈 → 질문 만들기 → 약속 그림 → 진로 탐색 → Agent 만들기 → 마무리)을 따르는 판입니다.
